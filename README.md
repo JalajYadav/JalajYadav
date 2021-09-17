@@ -2,6 +2,7 @@
 
 <!--
 **JalajYadav/JalajYadav** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![a](https://user-images.githubusercontent.com/72254341/133728192-2ec73ed6-ba36-485c-93c3-a054adf7f90e.gif)
 
 Here are some ideas to get you started:
 
