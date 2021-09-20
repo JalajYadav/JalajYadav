@@ -14,7 +14,7 @@
 
 - 👨‍💻 All of my projects are available [@JalajYadav](https://github.com/JalajYadav)
 
-- 💬 Always up for a game of CS:GO ** A47SA-FPTC 😆**
+- 💬 Always up for a game of CS:GO **A47SA-FPTC 😆**
 
 - ⚡ Fun fact **Coding is a passion and not profession.**
 
