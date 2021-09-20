@@ -226,6 +226,9 @@
     <img src="https://img.shields.io/badge/Telegram-26A5E4.svg?style=for-the-badge&logo=telegram&logoColor=white" alt="example"/>
   </a>
  <a href="mailto:jalajyadav99@gmail.com"><img src="https://img.shields.io/badge/-gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
+  <a  href="https://discord.com" target="_blank">
+    <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="example"/>
+  </a>
 </p>
 
 ----
