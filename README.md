@@ -25,7 +25,7 @@
 <h2 align="center"><u><b>Knowledge Base</b></u></h2>
 
 <p align="center">
-  <img style="width:26rem; height:auto" src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/41a4790484e268102dfdab2b7c59d440d3ffafab/resources/img/coders-prog.gif"/>
+  <img style="width:26rem; height:auto" src="https://c.tenor.com/61bhySndZ_cAAAAM/nope-nope-button.gif"/>
 </p>
 
 <h3 align="center">Languages</h3>
