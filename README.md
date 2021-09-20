@@ -209,7 +209,7 @@
   <a  href="https://t.me/JJY_9" target="_blank">
     <img src="https://img.shields.io/badge/Telegram-26A5E4.svg?style=for-the-badge&logo=telegram&logoColor=white" alt="example"/>
   </a>
- <a href="mailto:jalajyadav99@gmail.com"><img src="https://img.shields.io/badge/-gmail.com-D14836?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
+ <a href="mailto:jalajyadav99@gmail.com"><img src="https://img.shields.io/badge/-gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
 </p>
 
 ----
