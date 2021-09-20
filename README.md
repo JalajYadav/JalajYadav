@@ -103,6 +103,10 @@
     <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"
       alt="sqlite"/> 
   </a>
+    <a href="https://www.djangoproject.com/" target="_blank"> 
+    <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"
+      alt="sqlite"/> 
+  </a>
 </p>
 
 <h3 align="center">Database</h3>
