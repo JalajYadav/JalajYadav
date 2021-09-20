@@ -12,7 +12,7 @@
 
 - 🤝 I’m looking for help with **System Design**
 
-- 👨‍💻 All of my projects are available [@JalajYadav](github.com/JalajYadav)
+- 👨‍💻 All of my projects are available [@JalajYadav](https://github.com/JalajYadav)
 
 - 💬 Always up for a game of CS:GO ** A47SA-FPTC 😆**
 
