@@ -85,6 +85,9 @@
   <a href="https://mui.com/getting-started/installation/" target="_blank">
     <img src="https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white" alt="babel"/> 
   </a>
+  <a href="https://sass-lang.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white"/> 
+  </a>
 </p>
 
 <h3 align="center">Backend</h3>
