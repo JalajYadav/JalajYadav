@@ -14,7 +14,7 @@
 
 - 👨‍💻 All of my projects are available [@JalajYadav](https://github.com/JalajYadav)
 
-- 💬 Always up for a game of CS:GO **A47SA-FPTC 😆**
+- 💬 Always up for a game of CS:GO <img width="150px" src="https://img.shields.io/badge/Counter_Strike-000000?style=for-the-badge&logo=counter-strike&logoColor=white"> **A47SA-FPTC 😆**
 
 - ⚡ Fun fact **Coding is a passion and not profession.**
 
@@ -76,8 +76,14 @@
   <a href="https://redux.js.org" target="_blank"> 
     <img src="https://img.shields.io/badge/redux-764ABC.svg?style=for-the-badge&logo=redux&logoColor=white" alt="redux"/> 
   </a> 
+  <a href="https://reactrouter.com/web/guides/quick-start" target="_blank">
+    <img src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white" alt="babel"/> 
+  </a>
   <a href="https://jquery.com/" target="_blank">
     <img src="https://img.shields.io/badge/jquery-0769AD.svg?style=for-the-badge&logo=jquery&logoColor=white" alt="jquery"/> 
+  </a>
+  <a href="https://mui.com/getting-started/installation/" target="_blank">
+    <img src="https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white" alt="babel"/> 
   </a>
 </p>
 
