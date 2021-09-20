@@ -25,7 +25,7 @@
 <h2 align="center"><u><b>Knowledge Base</b></u></h2>
 
 <p align="center">
-  <img style="width:26rem; height:auto" src="https://revelry.co/wp-content/uploads/2019/05/react-native-UX-design.gif"/>
+  <img style="width:26rem; height:auto" src="https://i.morioh.com/139b757e13.png"/>
 </p>
 
 <h3 align="center">Languages</h3>
