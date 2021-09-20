@@ -88,6 +88,9 @@
   <a href="https://sass-lang.com/" target="_blank">
     <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white"/> 
   </a>
+  <a href="https://ejs.co/" target="_blank">
+    <img src="https://img.shields.io/badge/%3C%25%3DEJS%25%3E-87CF3E?style=for-the-badge&logoColor=white"/> 
+  </a>
 </p>
 
 <h3 align="center">Backend</h3>
