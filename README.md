@@ -34,8 +34,8 @@
     <img src="https://img.shields.io/badge/C%20programming-A8B9CC.svg?style=for-the-badge&logo=c&logoColor=white"
       alt="c"/>
   </a>
-  <a href="https://www.cprogramming.com/" target="_blank"> 
-    <img src="https://img.shields.io/badge/C++-Programming-blue.svg?style=for-the-badge&logo=c++&logoColor=white"
+  <a href="https://www.cplusplus.com/doc/" target="_blank"> 
+    <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"
       alt="c"/>
   </a>
   <a href="https://www.java.com" target="_blank"> 
@@ -93,6 +93,10 @@
   <a href="https://graphql.org" target="_blank">
     <img src="https://img.shields.io/badge/graphql-E10098.svg?style=for-the-badge&logo=graphql&logoColor=white" alt="graphql" />
   </a>
+  <a href="https://flask.palletsprojects.com/en/2.0.x/" target="_blank"> 
+    <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"
+      alt="sqlite"/> 
+  </a>
 </p>
 
 <h3 align="center">Database</h3>
@@ -105,11 +109,10 @@
     <img src="https://img.shields.io/badge/postgreSQL-4169E1.svg?style=for-the-badge&logo=postgresql&logoColor=white"
       alt="postgresql"/> 
   </a>
-  <a href="https://www.sqlite.org/" target="_blank"> 
-    <img src="https://img.shields.io/badge/sqlite-003B57.svg?style=for-the-badge&logo=sqlite&logoColor=white"
-      alt="sqlite"/> 
+  <a href="https://dev.mysql.com/doc/" target="_blank"> 
+    <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"
+      alt="MySQl"/> 
   </a>
-  
 </p>
 
 <h3 align="center">Cloud & Hosting:</h3>
