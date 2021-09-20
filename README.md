@@ -88,9 +88,6 @@
   <a href="https://sass-lang.com/" target="_blank">
     <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white"/> 
   </a>
-  <a href="https://ejs.co/" target="_blank">
-    <img src="https://img.shields.io/badge/%3C%25%3DEJS%25%3E-87CF3E?style=for-the-badge&logoColor=white"/> 
-  </a>
 </p>
 
 <h3 align="center">Backend</h3>
@@ -102,6 +99,9 @@
   <a href="https://expressjs.com" target="_blank">
     <img src="https://img.shields.io/badge/express-000000.svg?style=for-the-badge&logo=express&logoColor=white"
       alt="express" />
+  <a href="https://ejs.co/" target="_blank">
+    <img src="https://img.shields.io/badge/%3C%25%3DEJS%25%3E-87CF3E?style=for-the-badge&logoColor=white"/> 
+  </a>
   <a href="https://graphql.org" target="_blank">
     <img src="https://img.shields.io/badge/graphql-E10098.svg?style=for-the-badge&logo=graphql&logoColor=white" alt="graphql" />
   </a>
