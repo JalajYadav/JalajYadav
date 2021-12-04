@@ -16,7 +16,7 @@
 
 - 💬 Always up for a game of CS:GO <img width="150px" src="https://img.shields.io/badge/Counter_Strike-000000?style=for-the-badge&logo=counter-strike&logoColor=white"> **A47SA-FPTC 😆**
 
-- ⚡ Fun fact **Coding is a passion and not profession.**
+- ⚡ Fun fact **I cannot type flase with a typo XD.**
 
 
 ---
