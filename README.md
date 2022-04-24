@@ -1,5 +1,5 @@
 <p align="center">
-  <img style="width:8rem; height:auto" src="./images-gifs/b-modified.png"/>
+  <img style="width:8rem; height:auto" src="./images-gifs/cat-modified.png"/>
 </p>
 
 <h1 align="center">Hi, I'm Jalaj Yadav <img width="30px" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif"></h1>
