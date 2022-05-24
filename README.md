@@ -5,8 +5,7 @@
 <h1 align="center">Hi, I'm Jalaj Yadav <img width="30px" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif"></h1>
 <h3 font-size="20" align="center">A passionate full stack developer and a student from India.</h3>
 
- <img align="right" style="width:16rem; height:auto" src="./images-gifs/a.gif"/>
-
+<div>
 - 🌱 I’m currently learning **To be Extrovert**
 
 - 👯 I’m looking to collaborate on **MERN Stack**
@@ -18,8 +17,8 @@
 - 💬 Always up for a game of CS:GO <img width="150px" src="https://img.shields.io/badge/Counter_Strike-000000?style=for-the-badge&logo=counter-strike&logoColor=white"> **A47SA-FPTC 😆**
 
 - ⚡ Fun fact **I cannot type flase without a typo XD.**
-
-
+</div>
+<img align="right" style="width:16rem; height:auto" src="./images-gifs/a.gif"/>
 ---
 
 
