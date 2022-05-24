@@ -5,7 +5,7 @@
 <h1 align="center">Hi, I'm Jalaj Yadav <img width="30px" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif"></h1>
 <h3 font-size="20" align="center">A passionate full stack developer and a student from India.</h3>
 
-- 🌱 I’m currently learning **To be Extrovert**                 <img float="right" style="width:16rem; height:auto" src="./images-gifs/a.gif"/>
+- 🌱 I’m currently learning **To be Extrovert**                 <img text-align="right" style="width:16rem; height:auto" src="./images-gifs/a.gif"/>
 
 - 👯 I’m looking to collaborate on **MERN Stack**
 
