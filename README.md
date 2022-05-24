@@ -6,7 +6,7 @@
 <h3 font-size="20" align="center">A passionate full stack developer and a student from India.</h3>
 
 
-- 🌱 I’m currently learning **To be Extrovert** <img align="right" style="width:16rem; height:auto" src="./images-gifs/a.gif"/>
+- 🌱 I’m currently learning **To be Extrovert** <img align="left" style="width:16rem; height:auto" src="./images-gifs/a.gif"/>
 
 - 👯 I’m looking to collaborate on **MERN Stack**
 
