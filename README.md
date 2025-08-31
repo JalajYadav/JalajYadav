@@ -1,6 +1,8 @@
+<!--
 <p align="center">
   <img style="width:8rem; height:auto" src="./images-gifs/cat-modified.png"/>
 </p>
+-->
 
 <h1 align="center">Hi, I'm Jalaj Yadav <img width="30px" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif"></h1>
 <h3 font-size="20" align="center">A passionate full stack developer and a student from India.</h3>
