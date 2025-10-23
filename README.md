@@ -1,8 +1,3 @@
-<!--
-<p align="center">
-  <img style="width:8rem; height:auto" src="./images-gifs/cat-modified.png"/>
-</p>
--->
 
 <h1 align="center">Hi, I'm Jalaj Yadav <img width="30px" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif"></h1>
 <h3 font-size="20" align="center">A passionate full stack developer and a student from India.</h3>
@@ -11,11 +6,11 @@
   <img align="right" style="width:16rem; height:auto" src="./images-gifs/a.gif"/>
 </p>
 
-- 🌱 I’m currently learning **To be Extrovert**           
+- 🌱 I’m currently learning **System Design**           
 
-- 👯 I’m looking to collaborate on **MERN Stack**
+- 👯 I’m looking to collaborate on **Small Scale Projects**
 
-- 🤝 I’m looking for help with **System Design**
+- 🤝 I’m looking for help with **Java ScprinBoot**
 
 - 👨‍💻 All of my projects are available [@JalajYadav](https://github.com/JalajYadav)
 
